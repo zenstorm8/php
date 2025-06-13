@@ -1,4 +1,4 @@
-# Text Board
+# Text Board 1
 
 A lightweight, file-based PHP message board for simple text posting. Designed for small deployments or local use, this application requires no database—just a writable JSON file to store posts and a simple file for error logs.
 
