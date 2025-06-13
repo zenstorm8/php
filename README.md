@@ -2,4 +2,6 @@ PhP is not that great. It is outdated, and latest php versions are still miles b
 
 The apps here are NOT SECURE. It would be incredibly foolish to think a php app is secure. 
 
-Ai can instantly code you a nice one page app in Rust, which uses actix web and other modern things to make a way more secure app. Make zero mistake- any well coded Rust app is far superior to any php app. 
+Ai can instantly code you a nice one page app in Rust, which uses something like actix web and other modern things to make a way more secure app. Make zero mistake- any well coded Rust app is far superior to any php app. Rust or to a lesser degree golang is far superior to php. 
+
+Any php app you see on github will have security issues. That is an objective fact. 
