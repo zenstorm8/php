@@ -4,4 +4,4 @@ The apps here are NOT SECURE. It would be incredibly foolish to think a php app 
 
 Ai can instantly code you a nice one page app in Rust, which uses something like actix web and other modern things to make a way more secure app. Make zero mistake- any well coded Rust app is far superior to any php app. Rust or to a lesser degree golang is far superior to php. 
 
-Any php app you see on github will have security issues. That is an objective fact. 
+Any php app you see on github will have security issues. That is an objective fact. This repo will have a bundch of different starter apps- each one will be made to only work on php 8.4.8 +   and each one is considered a STARTER APP, an app to start tinkering with- not the finished app. You should use RUST instead of php. The whole point of this repo is to see if any very small codebase php apps can be made that are actually somewhat secure and useful. Again, and for clarity- Rust apps or golang apps are far superior to php. 
